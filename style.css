@@ -1,0 +1,297 @@
+/* 娴佽浆淇℃伅鏄剧ず灏忓渾褰㈣鐩栨祦绋嬬姸鎬侀棶棰� */
+.mint-steps.mt-bg-white.mint-steps--vertical {
+	position: absolute;
+	width: 100%;
+	z-index: 0;
+}
+
+.mint-steps__items {
+	padding-bottom: 40px;
+}
+
+.tablejjjj {
+	border-radius: .6rem;
+}
+
+.trrrr {
+	border-top-left-radius: .6rem !important;
+	border-top-right-radius: .6rem !important;
+	overflow: hidden;
+}
+
+.thhhhh {
+	height: 50px;
+	line-height: 1.074074rem !important;
+	background-color: #F2F3F5;
+	text-align: center !important;
+	font-weight: normal;
+	font-size: 16px;
+}
+
+.list-tr {
+	/* border-bottom:  1px solid rgba(0, 0, 0, 0.03); */
+	text-align: center !important;
+	height: 2.8rem;
+	line-height: 2.8.074074rem !important;
+	background-color: #FFFFFF;
+}
+
+.mint-cell-wrapper {
+	padding-right: 0px !important;
+}
+
+.mint-field-state {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+}
+
+#contentemapdatatable {
+	width: 100% !important;
+}
+
+.table_container {
+	display: flex;
+	justify-content: center;
+	height: 70vh;
+	overflow: auto;
+	padding: 20px;
+	border: 1px solid #D8DCF0;
+}
+
+.mytable {
+	width: 70%;
+	margin: 10px 0;
+	background-color: #fff;
+	color: #5f5f5f;
+	text-align: center;
+	line-height: 30px;
+	border-color: #D8DCF0;
+	/* 	height: 400px;
+		overflow: auto; */
+}
+
+.mytable thead>tr {
+	background-color: #edf1f6;
+
+}
+
+.td-zqk {
+	color: #4caf50;
+}
+
+.td-gqwqd {
+	color: red;
+}
+
+.mytable tbody>tr:hover {
+	background-color: #f3f8ff;
+}
+
+/* pc鎼滅储 */
+.search_table {
+	padding: 20px;
+	width: 700px;
+	/* display: flex; */
+}
+
+.search-form {
+	display: flex;
+}
+
+.search-item {
+	display: flex;
+
+}
+
+.search-form-label {
+	width: 64px;
+	margin-left: 16px;
+	line-height: 26px;
+}
+
+.search-form-select {
+	width: 110px;
+
+}
+
+.search_btn {
+	margin-left: 10px;
+	margin-top: -2px;
+}
+
+.serachtable {
+	margin-top: 20px;
+	width: 100%;
+}
+
+.tabel_title {
+	width: 100%;
+	display: flex;
+	/* justify-content: space-around; */
+	background: #ebecf2;
+	border-bottom: 1px solid #D8DCF0;
+}
+
+.tabel_text {
+	width: 100%;
+	display: flex;
+	/* justify-content: space-around; */
+	border-bottom: 1px solid #D8DCF0;
+	background: rgba(254, 254, 254, 0.5);
+}
+
+.tabel_title_text {
+	width: 220px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 32px;
+	color: #333;
+	font-weight: bold;
+}
+
+.tabel_num_text {
+	width: 220px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 32px;
+	color: #333;
+
+}
+
+.tabel_num_none {
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	line-height: 32px;
+	color: #333;
+
+}
+
+.bkyyrq {
+	min-height: 380px;
+}
+
+.bkyyrq .content {
+
+	max-height: 700px !important;
+}
+
+/* 棰勭害閲屽脊妗嗛珮搴﹀姞 */
+.dhkstyle {
+	min-height: 580px;
+}
+
+/* 鏃堕棿閫夋嫨calss */
+.kuai {
+	margin: 8px;
+	border: 1px solid #D8DCF0;
+	padding: 4px 8px;
+	width: 100px;
+	text-align: center;
+}
+
+.disabled {
+	background-color: #eceff1;
+}
+
+.dhkstyle .content {
+	display: flex;
+	justify-content: flex-start;
+	/* justify-content: space-between; */
+	flex-wrap: wrap;
+	max-height: 700px !important;
+	margin-top: 20px;
+}
+
+.bh-mh-16 .mycontent {
+	display: flex;
+	justify-content: flex-start;
+	/* justify-content: space-between; */
+	flex-wrap: wrap;
+	max-height: 700px !important;
+	margin-top: 14px;
+}
+
+.activetime {
+	border-color: #2196F3;
+	color: #2196F3;
+}
+
+.pl {
+	padding-left: 10px;
+}
+
+.bh-mh-16 .mycontent {
+	display: flex;
+	justify-content: flex-start;
+	/* justify-content: space-between; */
+	flex-wrap: wrap;
+	max-height: 700px !important;
+	margin-top: 20px;
+}
+
+.dhkstyle .bh-dialog-center .bh-dialog-btnContainerBox {
+	position: absolute !important;
+	bottom: 20px;
+}
+
+.flex {
+	display: flex;
+	margin-left: 26px;
+}
+
+.mt {
+	margin-top: 20px;
+}
+
+.label {
+	width: 70px;
+	line-height: 27px;
+}
+
+#gysmc {
+	width: 200px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.custom-select {
+
+	/* 鍐呰竟璺� */
+	border: 1px solid #ccc;
+	/* 杈规 */
+
+	/* 杈规鍦嗚 */
+	background-color: #fff;
+	/* 鑳屾櫙棰滆壊 */
+	color: #333;
+	/* 鏂囧瓧棰滆壊 */
+	font-size: 14px;
+	/* 瀛椾綋澶у皬 */
+	cursor: pointer;
+	/* 榧犳爣鎮仠鏃剁殑鎸囬拡鏍峰紡 */
+	appearance: none;
+	/* 鍘婚櫎榛樿鏍峰紡 */
+	-webkit-appearance: none;
+	/* 閽堝Webkit娴忚鍣� */
+	-moz-appearance: none;
+	/* 閽堝Mozilla娴忚鍣� */
+}
+
+.custom-select:focus {
+	outline: none;
+	/* 绉婚櫎鐒︾偣杞粨 */
+
+}
+
+
+
+
+.custom-select option {
+	background-color: #f9f9f9;
+	/* 閫夐」鑳屾櫙棰滆壊 */
+	color: #333;
+	/* 閫夐」鏂囧瓧棰滆壊 */
+	padding: 5px;
+	/* 閫夐」鍐呰竟璺� */
+}

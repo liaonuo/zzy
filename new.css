@@ -1,0 +1,24 @@
+.mint-cell-group-content{
+    background-color: #FFF;
+}
+.mint-button{
+    background-color: #52C7CA;
+    color: #FFF;
+}
+.mint-cell-text{
+    color: #92969C;
+}
+.mt-color-grey-lv3 {
+    color: #92969C;
+}
+.mint-cell-no-bottom-line {
+    border-bottom-color:#E8E8E8;
+    border-top-color: #E8E8E8;
+}
+.mint-header{
+    border-bottom-color:#E8E8E8;
+    border-top-color: #E8E8E8;
+}
+.mt-bColor-before-grey-lv5:before, .mt-bColor-after-grey-lv5:after {
+    border-color: #E8E8E8;
+}
